@@ -1,0 +1,11 @@
+[project]
+name = "email-filter"
+version = "0.1.0"
+description = "MCP server for spam email filtering using DeepSeek API"
+requires-python = ">=3.10"
+
+[tool.pdm]
+
+[tool.pdm.dependencies]
+mcp = {extras = ["cli"], version = "*"}
+httpx = "*" 
