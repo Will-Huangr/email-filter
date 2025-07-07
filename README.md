@@ -81,12 +81,4 @@ This is likely a spam email. It uses common phishing tactics such as an urgent a
 1. After configuring the MCP server, restart Cursor Desktop.
 2. You can now use the `filter_email` tool directly in your conversations within Cursor.
    <img width="730" alt="image" src="https://github.com/user-attachments/assets/55c9ffc5-8b1a-4f29-9047-14538ba7fead" />
-
-4. Example: "Please analyze this email for spam: [paste email content]"
-
-### Using with other MCP clients
-Refer to your MCP client documentation for connecting via stdio transport.
-
-## License
-
-MIT License - see LICENSE file for details.
+3. Example: "Please analyze this email for spam: [paste email content]"
